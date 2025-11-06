@@ -1,4 +1,4 @@
-## Used Car Price Prediction with MLflow
+## Used Car Price Prediction
 
 ### 📘 Introduction
 This project aims to predict the prices of used cars based on various factors such as brand, model year, mileage, fuel type, transmission, and accident history.  
